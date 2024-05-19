@@ -17,9 +17,9 @@ To run the game and train the AI agent, follow these steps:
    ```bash
    python trainer.py
 
-The game will start, and the AI agent will begin training. You can watch the game's progress as it plays and learns.
+The game will start, and the NN will begin training. You can watch the game's progress as it plays and learns.
 ## Game Controls
-The AI agent controls the snake automatically. There's no need for manual controls during training. You can observe the AI's performance and the game's progress.
+The AI agent controls the snake automatically. There's no need for manual controls during training. You can observe the neural network's performance and the game's progress.
 
 ## Customizing Game Speed
 You can modify the speed of the game by adjusting the SPEED variable in the snake_game.py file. The SPEED variable determines the game's speed, allowing you to slow down or speed up the AI's training.
@@ -43,4 +43,4 @@ The game visualizes the snake's performance and learning progress.
 ## Acknowledgments
 This Python Snake Game with a feedforward neural network was created as a fun and educational project. It demonstrates how reinforcement learning can be used to train AI agents in simple games. Feel free to explore and experiment with the code to learn more about the training process and AI-controlled games.
 
-Enjoy playing and observing the AI's training journey in this Snake Game!
+Enjoy playing and observing the network's training journey in this Snake Game!
